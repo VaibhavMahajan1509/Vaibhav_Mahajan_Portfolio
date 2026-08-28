@@ -4,5 +4,5 @@ export const links = {
   email: "vaibhav.mahajan1509@gmail.com",
   phone: "+91 62670 90678",
   location: "Indore, Madhya Pradesh, India",
-  resume: "/MERN_STACK_JOB_RESUME.pdf",
+  resume: "/Vaibhav_Mahajan_Mern_Stack_Resume_16_2026.pdf",
 };
